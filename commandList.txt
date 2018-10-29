@@ -1,0 +1,11 @@
+For now there aren't many commands. Currently regular users can use:
+
+!enroll FullName
+		This command links your discord account to the name we have for you on file.
+		Please enrole with the name that you have provided and that is on your attendance sheet.
+!commands
+		Prints this prompt
+!cookie
+		Prints a cookie
+!ping
+		Pong!
